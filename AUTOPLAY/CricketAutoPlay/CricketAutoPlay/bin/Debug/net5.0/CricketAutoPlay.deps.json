@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CricketAutoPlay/1.0.0": {
+        "runtime": {
+          "CricketAutoPlay.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CricketAutoPlay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
